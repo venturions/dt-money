@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-28T23:02:50.033Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-05-28T23:01:50.033Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-05-28T23:01:50.033Z"
+    },
+    {
+      "description": "Korn Show",
+      "price": 15698,
+      "category": "Música",
+      "type": "income",
+      "createdAt": "2023-05-29T00:46:58.095Z",
+      "id": 4
+    },
+    {
+      "description": "Amendobobo",
+      "price": 10000,
+      "category": "Yeahhh",
+      "type": "outcome",
+      "createdAt": "2023-05-29T00:56:36.990Z",
+      "id": 5
+    }
+  ]
+}
